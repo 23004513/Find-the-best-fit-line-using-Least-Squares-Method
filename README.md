@@ -48,7 +48,8 @@ plt.show()
 
 ## Output:
 
-![OUTPUT](<univariate Linear Regression.png>)
+![image](https://github.com/23004513/Find-the-best-fit-line-using-Least-Squares-Method/assets/138973069/d0aa5292-5759-49d0-b2da-886922acf660)
+
 
 
 ## Result:

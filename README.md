@@ -47,7 +47,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+
 ![OUTPUT](<univariate Linear Regression.png>)
 
 
